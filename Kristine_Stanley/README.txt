@@ -1,0 +1,116 @@
+Kristine Stanley - 113 Tech Stack Resume Versions
+Each numbered folder contains one DOCX and one PDF resume version.
+
+001. React / Next.js / TypeScript Frontend Engineer
+002. Angular / TypeScript Frontend Engineer
+003. Vue / Nuxt / TypeScript Frontend Engineer
+004. Svelte / SvelteKit Frontend Engineer
+005. JavaScript / TypeScript Web Developer
+006. UI / Design Systems Engineer
+007. Micro Frontend Engineer
+008. React / Node.js Full Stack Engineer
+009. Next.js / Node.js Full Stack Engineer
+010. React / Java Spring Boot Full Stack Engineer
+011. React / .NET Full Stack Engineer
+012. React / Python FastAPI Full Stack Engineer
+013. React / Django Full Stack Engineer
+014. React / Ruby on Rails Full Stack Engineer
+015. Angular / Java Spring Boot Full Stack Engineer
+016. Angular / .NET Full Stack Engineer
+017. Angular / Node.js Full Stack Engineer
+018. Angular / Python Django Full Stack Engineer
+019. Vue / Node.js Full Stack Engineer
+020. Vue / Java Spring Boot Full Stack Engineer
+021. Vue / .NET Full Stack Engineer
+022. Vue / Laravel Full Stack Engineer
+023. PHP / React Full Stack Engineer
+024. Node.js / Express Backend Engineer
+025. Node.js / NestJS Backend Engineer
+026. Node.js / TypeScript Backend Engineer
+027. Node.js / GraphQL Backend Engineer
+028. Node.js / Microservices Engineer
+029. Node.js / AWS Serverless Engineer
+030. Java / Spring Boot Backend Engineer
+031. Java / Spring Cloud Microservices Engineer
+032. Java / Kafka Backend Engineer
+033. Java / AWS Backend Engineer
+034. Java / Kubernetes Backend Engineer
+035. Java / Kotlin Backend Engineer
+036. Kotlin / Spring Boot Backend Engineer
+037. Kotlin / Ktor Backend Engineer
+038. .NET / ASP.NET Core Backend Engineer
+039. .NET / C# / SQL Server Backend Engineer
+040. .NET / Azure Backend Engineer
+041. .NET / Microservices Engineer
+042. .NET / Blazor Engineer
+043. .NET / DevOps Engineer
+044. .NET / MAUI Engineer
+045. Python / FastAPI Backend Engineer
+046. Python / Django Backend Engineer
+047. Python / Flask Backend Engineer
+048. Python / Async API Backend Engineer
+049. Python / AWS Backend Engineer
+050. Python / Microservices Engineer
+051. Go / Backend Engineer
+052. Go / gRPC Microservices Engineer
+053. Go / Kubernetes Cloud Engineer
+054. Go / React Full Stack Engineer
+055. Rust / Backend Engineer
+056. Rust / Systems Engineer
+057. PHP / Laravel Backend Engineer
+058. PHP / Symfony Backend Engineer
+059. PHP / WordPress Engineer
+060. PHP / eCommerce Engineer
+061. Ruby on Rails Backend Engineer
+062. Ruby on Rails Full Stack Engineer
+063. API Engineer / REST / GraphQL
+064. Microservices Backend Engineer
+065. Event-Driven Backend Engineer
+066. Serverless Backend Engineer
+067. SaaS Platform Engineer
+068. AWS Cloud Engineer
+069. Azure Cloud Engineer
+070. GCP Cloud Engineer
+071. AWS DevOps Engineer
+072. Azure DevOps Engineer
+073. GCP DevOps Engineer
+074. Docker / Kubernetes Engineer
+075. Terraform Infrastructure Engineer
+076. Kubernetes Platform Engineer
+077. CI/CD Engineer
+078. GitHub Actions / Jenkins Engineer
+079. Site Reliability Engineer
+080. Linux Infrastructure Engineer
+081. Cloud Security / DevSecOps Engineer
+082. IAM / Auth Security Engineer
+083. Database Engineer / PostgreSQL / MySQL
+084. SQL Server Database Engineer
+085. Data Engineer
+086. Python / SQL Data Engineer
+087. Spark / Databricks Data Engineer
+088. PySpark Data Engineer
+089. Airflow / dbt / ETL Engineer
+090. Snowflake / dbt Analytics Engineer
+091. BigQuery / GCP Data Engineer
+092. AWS Glue / Redshift Data Engineer
+093. Azure Data Factory / Synapse Engineer
+094. Kafka / Streaming Data Engineer
+095. Apache Flink / Streaming Engineer
+096. SQL / Data Modeling Engineer
+097. Data Warehouse Engineer
+098. Analytics Engineer
+099. Power BI / SQL BI Developer
+100. Tableau / SQL BI Developer
+101. AI / ML Engineer
+102. Generative AI Engineer
+103. LLM Application Engineer
+104. RAG / Vector Database Engineer
+105. AI Agent Engineer
+106. LangChain / LangGraph Engineer
+107. AI Full Stack Engineer
+108. MLOps Engineer
+109. React Native Mobile Engineer
+110. Flutter / Dart Mobile Engineer
+111. iOS Swift Engineer
+112. iOS Objective-C Engineer
+113. Android Kotlin Engineer
