@@ -1,0 +1,398 @@
+[
+  {
+    "number": 1,
+    "folder": "00_General_Senior_Software_Engineer",
+    "title": "Senior Software Engineer - Full Stack, Cloud, Data and AI",
+    "summary_chars": 465
+  },
+  {
+    "number": 2,
+    "folder": "01_Frontend_React_NextJS",
+    "title": "Senior Frontend Engineer - React and Next.js",
+    "summary_chars": 453
+  },
+  {
+    "number": 3,
+    "folder": "02_Frontend_Angular",
+    "title": "Senior Frontend Engineer - Angular",
+    "summary_chars": 437
+  },
+  {
+    "number": 4,
+    "folder": "03_Frontend_Vue_Nuxt",
+    "title": "Senior Frontend Engineer - Vue.js and Nuxt",
+    "summary_chars": 446
+  },
+  {
+    "number": 5,
+    "folder": "04_Frontend_Svelte_SvelteKit",
+    "title": "Senior Frontend Engineer - Svelte and SvelteKit",
+    "summary_chars": 452
+  },
+  {
+    "number": 6,
+    "folder": "05_Mobile_React_Native",
+    "title": "Senior Mobile Engineer - React Native",
+    "summary_chars": 444
+  },
+  {
+    "number": 7,
+    "folder": "06_Mobile_Flutter_Dart",
+    "title": "Senior Mobile Engineer - Flutter and Dart",
+    "summary_chars": 450
+  },
+  {
+    "number": 8,
+    "folder": "07_Mobile_ObjectiveC_Swift",
+    "title": "Senior Mobile Engineer - iOS, Objective-C and Swift",
+    "summary_chars": 449
+  },
+  {
+    "number": 9,
+    "folder": "08_Backend_Node_AWS",
+    "title": "Senior Backend Engineer - Node.js and TypeScript, AWS",
+    "summary_chars": 449
+  },
+  {
+    "number": 10,
+    "folder": "09_Backend_Java_AWS",
+    "title": "Senior Backend Engineer - Java and Spring Boot, AWS",
+    "summary_chars": 447
+  },
+  {
+    "number": 11,
+    "folder": "10_Backend_CSharp_NET_Azure",
+    "title": "Senior Backend Engineer - C# and .NET, Azure",
+    "summary_chars": 436
+  },
+  {
+    "number": 12,
+    "folder": "11_Backend_PHP_AWS",
+    "title": "Senior Backend Engineer - PHP and Laravel, AWS",
+    "summary_chars": 441
+  },
+  {
+    "number": 13,
+    "folder": "12_Backend_Go_GCP",
+    "title": "Senior Backend Engineer - Go, GCP",
+    "summary_chars": 425
+  },
+  {
+    "number": 14,
+    "folder": "13_Backend_Rust_AWS",
+    "title": "Senior Backend Engineer - Rust, AWS",
+    "summary_chars": 427
+  },
+  {
+    "number": 15,
+    "folder": "14_Backend_Ruby_AWS",
+    "title": "Senior Backend Engineer - Ruby on Rails, AWS",
+    "summary_chars": 443
+  },
+  {
+    "number": 16,
+    "folder": "15_Backend_Python_Azure",
+    "title": "Senior Backend Engineer - Python, Azure",
+    "summary_chars": 431
+  },
+  {
+    "number": 17,
+    "folder": "16_Full_Stack_React_NextJS_Node_AWS",
+    "title": "Senior Full Stack Engineer - React and Next.js, Node.js and TypeScript, AWS",
+    "summary_chars": 483
+  },
+  {
+    "number": 18,
+    "folder": "17_Full_Stack_React_NextJS_Java_GCP",
+    "title": "Senior Full Stack Engineer - React and Next.js, Java and Spring Boot, GCP",
+    "summary_chars": 481
+  },
+  {
+    "number": 19,
+    "folder": "18_Full_Stack_React_NextJS_CSharp_NET_Azure",
+    "title": "Senior Full Stack Engineer - React and Next.js, C# and .NET, Azure",
+    "summary_chars": 470
+  },
+  {
+    "number": 20,
+    "folder": "19_Full_Stack_React_NextJS_PHP_AWS",
+    "title": "Senior Full Stack Engineer - React and Next.js, PHP and Laravel, AWS",
+    "summary_chars": 475
+  },
+  {
+    "number": 21,
+    "folder": "20_Full_Stack_React_NextJS_Go_GCP",
+    "title": "Senior Full Stack Engineer - React and Next.js, Go, GCP",
+    "summary_chars": 459
+  },
+  {
+    "number": 22,
+    "folder": "21_Full_Stack_React_NextJS_Rust_Azure",
+    "title": "Senior Full Stack Engineer - React and Next.js, Rust, Azure",
+    "summary_chars": 463
+  },
+  {
+    "number": 23,
+    "folder": "22_Full_Stack_React_NextJS_Ruby_AWS",
+    "title": "Senior Full Stack Engineer - React and Next.js, Ruby on Rails, AWS",
+    "summary_chars": 477
+  },
+  {
+    "number": 24,
+    "folder": "23_Full_Stack_React_NextJS_Python_GCP",
+    "title": "Senior Full Stack Engineer - React and Next.js, Python, GCP",
+    "summary_chars": 463
+  },
+  {
+    "number": 25,
+    "folder": "24_Full_Stack_Angular_Node_Azure",
+    "title": "Senior Full Stack Engineer - Angular, Node.js and TypeScript, Azure",
+    "summary_chars": 469
+  },
+  {
+    "number": 26,
+    "folder": "25_Full_Stack_Angular_Java_AWS",
+    "title": "Senior Full Stack Engineer - Angular, Java and Spring Boot, AWS",
+    "summary_chars": 465
+  },
+  {
+    "number": 27,
+    "folder": "26_Full_Stack_Angular_CSharp_NET_GCP",
+    "title": "Senior Full Stack Engineer - Angular, C# and .NET, GCP",
+    "summary_chars": 452
+  },
+  {
+    "number": 28,
+    "folder": "27_Full_Stack_Angular_PHP_Azure",
+    "title": "Senior Full Stack Engineer - Angular, PHP and Laravel, Azure",
+    "summary_chars": 461
+  },
+  {
+    "number": 29,
+    "folder": "28_Full_Stack_Angular_Go_AWS",
+    "title": "Senior Full Stack Engineer - Angular, Go, AWS",
+    "summary_chars": 443
+  },
+  {
+    "number": 30,
+    "folder": "29_Full_Stack_Angular_Rust_GCP",
+    "title": "Senior Full Stack Engineer - Angular, Rust, GCP",
+    "summary_chars": 445
+  },
+  {
+    "number": 31,
+    "folder": "30_Full_Stack_Angular_Ruby_Azure",
+    "title": "Senior Full Stack Engineer - Angular, Ruby on Rails, Azure",
+    "summary_chars": 463
+  },
+  {
+    "number": 32,
+    "folder": "31_Full_Stack_Angular_Python_AWS",
+    "title": "Senior Full Stack Engineer - Angular, Python, AWS",
+    "summary_chars": 447
+  },
+  {
+    "number": 33,
+    "folder": "32_Full_Stack_Vue_Nuxt_Node_GCP",
+    "title": "Senior Full Stack Engineer - Vue.js and Nuxt, Node.js and TypeScript, GCP",
+    "summary_chars": 476
+  },
+  {
+    "number": 34,
+    "folder": "33_Full_Stack_Vue_Nuxt_Java_Azure",
+    "title": "Senior Full Stack Engineer - Vue.js and Nuxt, Java and Spring Boot, Azure",
+    "summary_chars": 476
+  },
+  {
+    "number": 35,
+    "folder": "34_Full_Stack_Vue_Nuxt_CSharp_NET_AWS",
+    "title": "Senior Full Stack Engineer - Vue.js and Nuxt, C# and .NET, AWS",
+    "summary_chars": 461
+  },
+  {
+    "number": 36,
+    "folder": "35_Full_Stack_Vue_Nuxt_PHP_GCP",
+    "title": "Senior Full Stack Engineer - Vue.js and Nuxt, PHP and Laravel, GCP",
+    "summary_chars": 468
+  },
+  {
+    "number": 37,
+    "folder": "36_Full_Stack_Vue_Nuxt_Go_Azure",
+    "title": "Senior Full Stack Engineer - Vue.js and Nuxt, Go, Azure",
+    "summary_chars": 454
+  },
+  {
+    "number": 38,
+    "folder": "37_Full_Stack_Vue_Nuxt_Rust_AWS",
+    "title": "Senior Full Stack Engineer - Vue.js and Nuxt, Rust, AWS",
+    "summary_chars": 454
+  },
+  {
+    "number": 39,
+    "folder": "38_Full_Stack_Vue_Nuxt_Ruby_GCP",
+    "title": "Senior Full Stack Engineer - Vue.js and Nuxt, Ruby on Rails, GCP",
+    "summary_chars": 470
+  },
+  {
+    "number": 40,
+    "folder": "39_Full_Stack_Vue_Nuxt_Python_Azure",
+    "title": "Senior Full Stack Engineer - Vue.js and Nuxt, Python, Azure",
+    "summary_chars": 458
+  },
+  {
+    "number": 41,
+    "folder": "40_Full_Stack_Svelte_SvelteKit_Node_AWS",
+    "title": "Senior Full Stack Engineer - Svelte and SvelteKit, Node.js and TypeScript, AWS",
+    "summary_chars": 482
+  },
+  {
+    "number": 42,
+    "folder": "41_Full_Stack_Svelte_SvelteKit_Java_GCP",
+    "title": "Senior Full Stack Engineer - Svelte and SvelteKit, Java and Spring Boot, GCP",
+    "summary_chars": 480
+  },
+  {
+    "number": 43,
+    "folder": "42_Full_Stack_Svelte_SvelteKit_CSharp_NET_Azure",
+    "title": "Senior Full Stack Engineer - Svelte and SvelteKit, C# and .NET, Azure",
+    "summary_chars": 469
+  },
+  {
+    "number": 44,
+    "folder": "43_Full_Stack_Svelte_SvelteKit_PHP_AWS",
+    "title": "Senior Full Stack Engineer - Svelte and SvelteKit, PHP and Laravel, AWS",
+    "summary_chars": 474
+  },
+  {
+    "number": 45,
+    "folder": "44_Full_Stack_Svelte_SvelteKit_Go_GCP",
+    "title": "Senior Full Stack Engineer - Svelte and SvelteKit, Go, GCP",
+    "summary_chars": 458
+  },
+  {
+    "number": 46,
+    "folder": "45_Full_Stack_Svelte_SvelteKit_Rust_Azure",
+    "title": "Senior Full Stack Engineer - Svelte and SvelteKit, Rust, Azure",
+    "summary_chars": 462
+  },
+  {
+    "number": 47,
+    "folder": "46_Full_Stack_Svelte_SvelteKit_Ruby_AWS",
+    "title": "Senior Full Stack Engineer - Svelte and SvelteKit, Ruby on Rails, AWS",
+    "summary_chars": 476
+  },
+  {
+    "number": 48,
+    "folder": "47_Full_Stack_Svelte_SvelteKit_Python_GCP",
+    "title": "Senior Full Stack Engineer - Svelte and SvelteKit, Python, GCP",
+    "summary_chars": 462
+  },
+  {
+    "number": 49,
+    "folder": "48_Mobile_Full_Stack_React_Native_Node_AWS",
+    "title": "Senior Mobile Full Stack Engineer - React Native, Node.js and TypeScript, AWS",
+    "summary_chars": 483
+  },
+  {
+    "number": 50,
+    "folder": "49_Mobile_Full_Stack_React_Native_Java_GCP",
+    "title": "Senior Mobile Full Stack Engineer - React Native, Java and Spring Boot, GCP",
+    "summary_chars": 481
+  },
+  {
+    "number": 51,
+    "folder": "50_Mobile_Full_Stack_Flutter_Dart_Node_GCP",
+    "title": "Senior Mobile Full Stack Engineer - Flutter and Dart, Node.js and TypeScript, GCP",
+    "summary_chars": 489
+  },
+  {
+    "number": 52,
+    "folder": "51_Mobile_Full_Stack_Flutter_Dart_Python_AWS",
+    "title": "Senior Mobile Full Stack Engineer - Flutter and Dart, Python, AWS",
+    "summary_chars": 469
+  },
+  {
+    "number": 53,
+    "folder": "52_Mobile_Full_Stack_ObjectiveC_Swift_Node_Azure",
+    "title": "Senior Mobile Full Stack Engineer - iOS, Objective-C and Swift, Node.js and TypeScript, Azure",
+    "summary_chars": 490
+  },
+  {
+    "number": 54,
+    "folder": "53_Mobile_Full_Stack_ObjectiveC_Swift_Java_AWS",
+    "title": "Senior Mobile Full Stack Engineer - iOS, Objective-C and Swift, Java and Spring Boot, AWS",
+    "summary_chars": 486
+  },
+  {
+    "number": 55,
+    "folder": "54_AWS_DevOps",
+    "title": "Senior AWS DevOps Engineer",
+    "summary_chars": 458
+  },
+  {
+    "number": 56,
+    "folder": "55_GCP_DevOps",
+    "title": "Senior GCP DevOps Engineer",
+    "summary_chars": 458
+  },
+  {
+    "number": 57,
+    "folder": "56_Azure_DevOps",
+    "title": "Senior Azure DevOps Engineer",
+    "summary_chars": 462
+  },
+  {
+    "number": 58,
+    "folder": "57_Platform_Engineer",
+    "title": "Senior Platform Engineer - Kubernetes and Multi-Cloud",
+    "summary_chars": 477
+  },
+  {
+    "number": 59,
+    "folder": "58_SRE_Engineer",
+    "title": "Senior Site Reliability Engineer - Cloud and Kubernetes",
+    "summary_chars": 485
+  },
+  {
+    "number": 60,
+    "folder": "59_AI_ML",
+    "title": "Senior AI/ML Engineer - Python, MLOps and Cloud",
+    "summary_chars": 473
+  },
+  {
+    "number": 61,
+    "folder": "60_AI_Data",
+    "title": "Senior AI Data Engineer - Feature Platforms and ML Pipelines",
+    "summary_chars": 488
+  },
+  {
+    "number": 62,
+    "folder": "61_AI_Computer_Vision",
+    "title": "Senior Computer Vision Engineer - Deep Learning and MLOps",
+    "summary_chars": 491
+  },
+  {
+    "number": 63,
+    "folder": "62_AI_LLM",
+    "title": "Senior LLM Engineer - RAG, Agents and Evaluation",
+    "summary_chars": 492
+  },
+  {
+    "number": 64,
+    "folder": "63_AI_Integration",
+    "title": "Senior AI Integration Engineer - APIs, Automation and Enterprise Systems",
+    "summary_chars": 467
+  },
+  {
+    "number": 65,
+    "folder": "64_Generative_AI",
+    "title": "Senior Generative AI Engineer - Multimodal, RAG and Agents",
+    "summary_chars": 493
+  },
+  {
+    "number": 66,
+    "folder": "65_Data_Engineer",
+    "title": "Senior Data Engineer - Python, Spark, Airflow and Cloud",
+    "summary_chars": 491
+  }
+]

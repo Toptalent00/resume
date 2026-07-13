@@ -1,0 +1,5 @@
+Folder names identify the target stack; resume filenames do not include stack names.
+Each resume is ATS-friendly, uses the same career timeline, contains rewritten senior-level experience with measurable results, and emphasizes a distinct specialization.
+Every resume includes a 400-500 character professional summary, modern technical skills, all five companies, two selected projects, and education.
+Experience paragraph counts: 9 for BEVY, 8 for Syscom Digital, 7 for Soft Build, 6 for Decima Digital, and 5 for Borna Technology.
+Typography: Carlito font with a 10-point body size, larger section headings, and improved visual hierarchy.

@@ -1,0 +1,74 @@
+CRISTOFF STAN - SENIOR SOFTWARE ENGINEER RESUME PACKAGE
+
+Each folder is named for its target stack. Resume filenames are intentionally neutral:
+  - Cristoff Stan Resume.docx
+  - Cristoff Stan Resume.pdf
+
+Total targeted resumes: 66
+
+01. 00_General_Senior_Software_Engineer - Senior Software Engineer - Full Stack, Cloud, Data and AI
+02. 01_Frontend_React_NextJS - Senior Frontend Engineer - React and Next.js
+03. 02_Frontend_Angular - Senior Frontend Engineer - Angular
+04. 03_Frontend_Vue_Nuxt - Senior Frontend Engineer - Vue.js and Nuxt
+05. 04_Frontend_Svelte_SvelteKit - Senior Frontend Engineer - Svelte and SvelteKit
+06. 05_Mobile_React_Native - Senior Mobile Engineer - React Native
+07. 06_Mobile_Flutter_Dart - Senior Mobile Engineer - Flutter and Dart
+08. 07_Mobile_ObjectiveC_Swift - Senior Mobile Engineer - iOS, Objective-C and Swift
+09. 08_Backend_Node_AWS - Senior Backend Engineer - Node.js and TypeScript, AWS
+10. 09_Backend_Java_AWS - Senior Backend Engineer - Java and Spring Boot, AWS
+11. 10_Backend_CSharp_NET_Azure - Senior Backend Engineer - C# and .NET, Azure
+12. 11_Backend_PHP_AWS - Senior Backend Engineer - PHP and Laravel, AWS
+13. 12_Backend_Go_GCP - Senior Backend Engineer - Go, GCP
+14. 13_Backend_Rust_AWS - Senior Backend Engineer - Rust, AWS
+15. 14_Backend_Ruby_AWS - Senior Backend Engineer - Ruby on Rails, AWS
+16. 15_Backend_Python_Azure - Senior Backend Engineer - Python, Azure
+17. 16_Full_Stack_React_NextJS_Node_AWS - Senior Full Stack Engineer - React and Next.js, Node.js and TypeScript, AWS
+18. 17_Full_Stack_React_NextJS_Java_GCP - Senior Full Stack Engineer - React and Next.js, Java and Spring Boot, GCP
+19. 18_Full_Stack_React_NextJS_CSharp_NET_Azure - Senior Full Stack Engineer - React and Next.js, C# and .NET, Azure
+20. 19_Full_Stack_React_NextJS_PHP_AWS - Senior Full Stack Engineer - React and Next.js, PHP and Laravel, AWS
+21. 20_Full_Stack_React_NextJS_Go_GCP - Senior Full Stack Engineer - React and Next.js, Go, GCP
+22. 21_Full_Stack_React_NextJS_Rust_Azure - Senior Full Stack Engineer - React and Next.js, Rust, Azure
+23. 22_Full_Stack_React_NextJS_Ruby_AWS - Senior Full Stack Engineer - React and Next.js, Ruby on Rails, AWS
+24. 23_Full_Stack_React_NextJS_Python_GCP - Senior Full Stack Engineer - React and Next.js, Python, GCP
+25. 24_Full_Stack_Angular_Node_Azure - Senior Full Stack Engineer - Angular, Node.js and TypeScript, Azure
+26. 25_Full_Stack_Angular_Java_AWS - Senior Full Stack Engineer - Angular, Java and Spring Boot, AWS
+27. 26_Full_Stack_Angular_CSharp_NET_GCP - Senior Full Stack Engineer - Angular, C# and .NET, GCP
+28. 27_Full_Stack_Angular_PHP_Azure - Senior Full Stack Engineer - Angular, PHP and Laravel, Azure
+29. 28_Full_Stack_Angular_Go_AWS - Senior Full Stack Engineer - Angular, Go, AWS
+30. 29_Full_Stack_Angular_Rust_GCP - Senior Full Stack Engineer - Angular, Rust, GCP
+31. 30_Full_Stack_Angular_Ruby_Azure - Senior Full Stack Engineer - Angular, Ruby on Rails, Azure
+32. 31_Full_Stack_Angular_Python_AWS - Senior Full Stack Engineer - Angular, Python, AWS
+33. 32_Full_Stack_Vue_Nuxt_Node_GCP - Senior Full Stack Engineer - Vue.js and Nuxt, Node.js and TypeScript, GCP
+34. 33_Full_Stack_Vue_Nuxt_Java_Azure - Senior Full Stack Engineer - Vue.js and Nuxt, Java and Spring Boot, Azure
+35. 34_Full_Stack_Vue_Nuxt_CSharp_NET_AWS - Senior Full Stack Engineer - Vue.js and Nuxt, C# and .NET, AWS
+36. 35_Full_Stack_Vue_Nuxt_PHP_GCP - Senior Full Stack Engineer - Vue.js and Nuxt, PHP and Laravel, GCP
+37. 36_Full_Stack_Vue_Nuxt_Go_Azure - Senior Full Stack Engineer - Vue.js and Nuxt, Go, Azure
+38. 37_Full_Stack_Vue_Nuxt_Rust_AWS - Senior Full Stack Engineer - Vue.js and Nuxt, Rust, AWS
+39. 38_Full_Stack_Vue_Nuxt_Ruby_GCP - Senior Full Stack Engineer - Vue.js and Nuxt, Ruby on Rails, GCP
+40. 39_Full_Stack_Vue_Nuxt_Python_Azure - Senior Full Stack Engineer - Vue.js and Nuxt, Python, Azure
+41. 40_Full_Stack_Svelte_SvelteKit_Node_AWS - Senior Full Stack Engineer - Svelte and SvelteKit, Node.js and TypeScript, AWS
+42. 41_Full_Stack_Svelte_SvelteKit_Java_GCP - Senior Full Stack Engineer - Svelte and SvelteKit, Java and Spring Boot, GCP
+43. 42_Full_Stack_Svelte_SvelteKit_CSharp_NET_Azure - Senior Full Stack Engineer - Svelte and SvelteKit, C# and .NET, Azure
+44. 43_Full_Stack_Svelte_SvelteKit_PHP_AWS - Senior Full Stack Engineer - Svelte and SvelteKit, PHP and Laravel, AWS
+45. 44_Full_Stack_Svelte_SvelteKit_Go_GCP - Senior Full Stack Engineer - Svelte and SvelteKit, Go, GCP
+46. 45_Full_Stack_Svelte_SvelteKit_Rust_Azure - Senior Full Stack Engineer - Svelte and SvelteKit, Rust, Azure
+47. 46_Full_Stack_Svelte_SvelteKit_Ruby_AWS - Senior Full Stack Engineer - Svelte and SvelteKit, Ruby on Rails, AWS
+48. 47_Full_Stack_Svelte_SvelteKit_Python_GCP - Senior Full Stack Engineer - Svelte and SvelteKit, Python, GCP
+49. 48_Mobile_Full_Stack_React_Native_Node_AWS - Senior Mobile Full Stack Engineer - React Native, Node.js and TypeScript, AWS
+50. 49_Mobile_Full_Stack_React_Native_Java_GCP - Senior Mobile Full Stack Engineer - React Native, Java and Spring Boot, GCP
+51. 50_Mobile_Full_Stack_Flutter_Dart_Node_GCP - Senior Mobile Full Stack Engineer - Flutter and Dart, Node.js and TypeScript, GCP
+52. 51_Mobile_Full_Stack_Flutter_Dart_Python_AWS - Senior Mobile Full Stack Engineer - Flutter and Dart, Python, AWS
+53. 52_Mobile_Full_Stack_ObjectiveC_Swift_Node_Azure - Senior Mobile Full Stack Engineer - iOS, Objective-C and Swift, Node.js and TypeScript, Azure
+54. 53_Mobile_Full_Stack_ObjectiveC_Swift_Java_AWS - Senior Mobile Full Stack Engineer - iOS, Objective-C and Swift, Java and Spring Boot, AWS
+55. 54_AWS_DevOps - Senior AWS DevOps Engineer
+56. 55_GCP_DevOps - Senior GCP DevOps Engineer
+57. 56_Azure_DevOps - Senior Azure DevOps Engineer
+58. 57_Platform_Engineer - Senior Platform Engineer - Kubernetes and Multi-Cloud
+59. 58_SRE_Engineer - Senior Site Reliability Engineer - Cloud and Kubernetes
+60. 59_AI_ML - Senior AI/ML Engineer - Python, MLOps and Cloud
+61. 60_AI_Data - Senior AI Data Engineer - Feature Platforms and ML Pipelines
+62. 61_AI_Computer_Vision - Senior Computer Vision Engineer - Deep Learning and MLOps
+63. 62_AI_LLM - Senior LLM Engineer - RAG, Agents and Evaluation
+64. 63_AI_Integration - Senior AI Integration Engineer - APIs, Automation and Enterprise Systems
+65. 64_Generative_AI - Senior Generative AI Engineer - Multimodal, RAG and Agents
+66. 65_Data_Engineer - Senior Data Engineer - Python, Spark, Airflow and Cloud

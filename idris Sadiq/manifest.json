@@ -1,0 +1,530 @@
+[
+  {
+    "number": 1,
+    "folder": "00_General_Senior_Software_Engineer",
+    "title": "Senior Software Engineer - Full Stack, Cloud, Data and AI",
+    "summary_chars": 494,
+    "docx": "00_General_Senior_Software_Engineer/Idris Sadiq.docx",
+    "pdf": "00_General_Senior_Software_Engineer/Idris Sadiq.pdf"
+  },
+  {
+    "number": 2,
+    "folder": "01_Frontend_React_NextJS",
+    "title": "Senior Frontend Engineer - React and Next.js",
+    "summary_chars": 442,
+    "docx": "01_Frontend_React_NextJS/Idris Sadiq.docx",
+    "pdf": "01_Frontend_React_NextJS/Idris Sadiq.pdf"
+  },
+  {
+    "number": 3,
+    "folder": "02_Frontend_Angular",
+    "title": "Senior Frontend Engineer - Angular",
+    "summary_chars": 426,
+    "docx": "02_Frontend_Angular/Idris Sadiq.docx",
+    "pdf": "02_Frontend_Angular/Idris Sadiq.pdf"
+  },
+  {
+    "number": 4,
+    "folder": "03_Frontend_Vue_Nuxt",
+    "title": "Senior Frontend Engineer - Vue.js and Nuxt",
+    "summary_chars": 435,
+    "docx": "03_Frontend_Vue_Nuxt/Idris Sadiq.docx",
+    "pdf": "03_Frontend_Vue_Nuxt/Idris Sadiq.pdf"
+  },
+  {
+    "number": 5,
+    "folder": "04_Frontend_Svelte_SvelteKit",
+    "title": "Senior Frontend Engineer - Svelte and SvelteKit",
+    "summary_chars": 441,
+    "docx": "04_Frontend_Svelte_SvelteKit/Idris Sadiq.docx",
+    "pdf": "04_Frontend_Svelte_SvelteKit/Idris Sadiq.pdf"
+  },
+  {
+    "number": 6,
+    "folder": "05_Mobile_React_Native",
+    "title": "Senior Mobile Engineer - React Native",
+    "summary_chars": 433,
+    "docx": "05_Mobile_React_Native/Idris Sadiq.docx",
+    "pdf": "05_Mobile_React_Native/Idris Sadiq.pdf"
+  },
+  {
+    "number": 7,
+    "folder": "06_Mobile_Flutter_Dart",
+    "title": "Senior Mobile Engineer - Flutter and Dart",
+    "summary_chars": 439,
+    "docx": "06_Mobile_Flutter_Dart/Idris Sadiq.docx",
+    "pdf": "06_Mobile_Flutter_Dart/Idris Sadiq.pdf"
+  },
+  {
+    "number": 8,
+    "folder": "07_Mobile_ObjectiveC_Swift",
+    "title": "Senior Mobile Engineer - iOS, Objective-C and Swift",
+    "summary_chars": 438,
+    "docx": "07_Mobile_ObjectiveC_Swift/Idris Sadiq.docx",
+    "pdf": "07_Mobile_ObjectiveC_Swift/Idris Sadiq.pdf"
+  },
+  {
+    "number": 9,
+    "folder": "08_Backend_Node_AWS",
+    "title": "Senior Backend Engineer - Node.js and TypeScript, AWS",
+    "summary_chars": 438,
+    "docx": "08_Backend_Node_AWS/Idris Sadiq.docx",
+    "pdf": "08_Backend_Node_AWS/Idris Sadiq.pdf"
+  },
+  {
+    "number": 10,
+    "folder": "09_Backend_Java_AWS",
+    "title": "Senior Backend Engineer - Java and Spring Boot, AWS",
+    "summary_chars": 436,
+    "docx": "09_Backend_Java_AWS/Idris Sadiq.docx",
+    "pdf": "09_Backend_Java_AWS/Idris Sadiq.pdf"
+  },
+  {
+    "number": 11,
+    "folder": "10_Backend_CSharp_NET_Azure",
+    "title": "Senior Backend Engineer - C# and .NET, Azure",
+    "summary_chars": 425,
+    "docx": "10_Backend_CSharp_NET_Azure/Idris Sadiq.docx",
+    "pdf": "10_Backend_CSharp_NET_Azure/Idris Sadiq.pdf"
+  },
+  {
+    "number": 12,
+    "folder": "11_Backend_PHP_AWS",
+    "title": "Senior Backend Engineer - PHP and Laravel, AWS",
+    "summary_chars": 430,
+    "docx": "11_Backend_PHP_AWS/Idris Sadiq.docx",
+    "pdf": "11_Backend_PHP_AWS/Idris Sadiq.pdf"
+  },
+  {
+    "number": 13,
+    "folder": "12_Backend_Go_GCP",
+    "title": "Senior Backend Engineer - Go, GCP",
+    "summary_chars": 414,
+    "docx": "12_Backend_Go_GCP/Idris Sadiq.docx",
+    "pdf": "12_Backend_Go_GCP/Idris Sadiq.pdf"
+  },
+  {
+    "number": 14,
+    "folder": "13_Backend_Rust_AWS",
+    "title": "Senior Backend Engineer - Rust, AWS",
+    "summary_chars": 416,
+    "docx": "13_Backend_Rust_AWS/Idris Sadiq.docx",
+    "pdf": "13_Backend_Rust_AWS/Idris Sadiq.pdf"
+  },
+  {
+    "number": 15,
+    "folder": "14_Backend_Ruby_AWS",
+    "title": "Senior Backend Engineer - Ruby on Rails, AWS",
+    "summary_chars": 432,
+    "docx": "14_Backend_Ruby_AWS/Idris Sadiq.docx",
+    "pdf": "14_Backend_Ruby_AWS/Idris Sadiq.pdf"
+  },
+  {
+    "number": 16,
+    "folder": "15_Backend_Python_Azure",
+    "title": "Senior Backend Engineer - Python, Azure",
+    "summary_chars": 420,
+    "docx": "15_Backend_Python_Azure/Idris Sadiq.docx",
+    "pdf": "15_Backend_Python_Azure/Idris Sadiq.pdf"
+  },
+  {
+    "number": 17,
+    "folder": "16_Full_Stack_React_NextJS_Node_AWS",
+    "title": "Senior Full Stack Engineer - React and Next.js, Node.js and TypeScript, AWS",
+    "summary_chars": 472,
+    "docx": "16_Full_Stack_React_NextJS_Node_AWS/Idris Sadiq.docx",
+    "pdf": "16_Full_Stack_React_NextJS_Node_AWS/Idris Sadiq.pdf"
+  },
+  {
+    "number": 18,
+    "folder": "17_Full_Stack_React_NextJS_Java_GCP",
+    "title": "Senior Full Stack Engineer - React and Next.js, Java and Spring Boot, GCP",
+    "summary_chars": 470,
+    "docx": "17_Full_Stack_React_NextJS_Java_GCP/Idris Sadiq.docx",
+    "pdf": "17_Full_Stack_React_NextJS_Java_GCP/Idris Sadiq.pdf"
+  },
+  {
+    "number": 19,
+    "folder": "18_Full_Stack_React_NextJS_CSharp_NET_Azure",
+    "title": "Senior Full Stack Engineer - React and Next.js, C# and .NET, Azure",
+    "summary_chars": 459,
+    "docx": "18_Full_Stack_React_NextJS_CSharp_NET_Azure/Idris Sadiq.docx",
+    "pdf": "18_Full_Stack_React_NextJS_CSharp_NET_Azure/Idris Sadiq.pdf"
+  },
+  {
+    "number": 20,
+    "folder": "19_Full_Stack_React_NextJS_PHP_AWS",
+    "title": "Senior Full Stack Engineer - React and Next.js, PHP and Laravel, AWS",
+    "summary_chars": 464,
+    "docx": "19_Full_Stack_React_NextJS_PHP_AWS/Idris Sadiq.docx",
+    "pdf": "19_Full_Stack_React_NextJS_PHP_AWS/Idris Sadiq.pdf"
+  },
+  {
+    "number": 21,
+    "folder": "20_Full_Stack_React_NextJS_Go_GCP",
+    "title": "Senior Full Stack Engineer - React and Next.js, Go, GCP",
+    "summary_chars": 448,
+    "docx": "20_Full_Stack_React_NextJS_Go_GCP/Idris Sadiq.docx",
+    "pdf": "20_Full_Stack_React_NextJS_Go_GCP/Idris Sadiq.pdf"
+  },
+  {
+    "number": 22,
+    "folder": "21_Full_Stack_React_NextJS_Rust_Azure",
+    "title": "Senior Full Stack Engineer - React and Next.js, Rust, Azure",
+    "summary_chars": 452,
+    "docx": "21_Full_Stack_React_NextJS_Rust_Azure/Idris Sadiq.docx",
+    "pdf": "21_Full_Stack_React_NextJS_Rust_Azure/Idris Sadiq.pdf"
+  },
+  {
+    "number": 23,
+    "folder": "22_Full_Stack_React_NextJS_Ruby_AWS",
+    "title": "Senior Full Stack Engineer - React and Next.js, Ruby on Rails, AWS",
+    "summary_chars": 466,
+    "docx": "22_Full_Stack_React_NextJS_Ruby_AWS/Idris Sadiq.docx",
+    "pdf": "22_Full_Stack_React_NextJS_Ruby_AWS/Idris Sadiq.pdf"
+  },
+  {
+    "number": 24,
+    "folder": "23_Full_Stack_React_NextJS_Python_GCP",
+    "title": "Senior Full Stack Engineer - React and Next.js, Python, GCP",
+    "summary_chars": 452,
+    "docx": "23_Full_Stack_React_NextJS_Python_GCP/Idris Sadiq.docx",
+    "pdf": "23_Full_Stack_React_NextJS_Python_GCP/Idris Sadiq.pdf"
+  },
+  {
+    "number": 25,
+    "folder": "24_Full_Stack_Angular_Node_Azure",
+    "title": "Senior Full Stack Engineer - Angular, Node.js and TypeScript, Azure",
+    "summary_chars": 458,
+    "docx": "24_Full_Stack_Angular_Node_Azure/Idris Sadiq.docx",
+    "pdf": "24_Full_Stack_Angular_Node_Azure/Idris Sadiq.pdf"
+  },
+  {
+    "number": 26,
+    "folder": "25_Full_Stack_Angular_Java_AWS",
+    "title": "Senior Full Stack Engineer - Angular, Java and Spring Boot, AWS",
+    "summary_chars": 454,
+    "docx": "25_Full_Stack_Angular_Java_AWS/Idris Sadiq.docx",
+    "pdf": "25_Full_Stack_Angular_Java_AWS/Idris Sadiq.pdf"
+  },
+  {
+    "number": 27,
+    "folder": "26_Full_Stack_Angular_CSharp_NET_GCP",
+    "title": "Senior Full Stack Engineer - Angular, C# and .NET, GCP",
+    "summary_chars": 441,
+    "docx": "26_Full_Stack_Angular_CSharp_NET_GCP/Idris Sadiq.docx",
+    "pdf": "26_Full_Stack_Angular_CSharp_NET_GCP/Idris Sadiq.pdf"
+  },
+  {
+    "number": 28,
+    "folder": "27_Full_Stack_Angular_PHP_Azure",
+    "title": "Senior Full Stack Engineer - Angular, PHP and Laravel, Azure",
+    "summary_chars": 450,
+    "docx": "27_Full_Stack_Angular_PHP_Azure/Idris Sadiq.docx",
+    "pdf": "27_Full_Stack_Angular_PHP_Azure/Idris Sadiq.pdf"
+  },
+  {
+    "number": 29,
+    "folder": "28_Full_Stack_Angular_Go_AWS",
+    "title": "Senior Full Stack Engineer - Angular, Go, AWS",
+    "summary_chars": 432,
+    "docx": "28_Full_Stack_Angular_Go_AWS/Idris Sadiq.docx",
+    "pdf": "28_Full_Stack_Angular_Go_AWS/Idris Sadiq.pdf"
+  },
+  {
+    "number": 30,
+    "folder": "29_Full_Stack_Angular_Rust_GCP",
+    "title": "Senior Full Stack Engineer - Angular, Rust, GCP",
+    "summary_chars": 434,
+    "docx": "29_Full_Stack_Angular_Rust_GCP/Idris Sadiq.docx",
+    "pdf": "29_Full_Stack_Angular_Rust_GCP/Idris Sadiq.pdf"
+  },
+  {
+    "number": 31,
+    "folder": "30_Full_Stack_Angular_Ruby_Azure",
+    "title": "Senior Full Stack Engineer - Angular, Ruby on Rails, Azure",
+    "summary_chars": 452,
+    "docx": "30_Full_Stack_Angular_Ruby_Azure/Idris Sadiq.docx",
+    "pdf": "30_Full_Stack_Angular_Ruby_Azure/Idris Sadiq.pdf"
+  },
+  {
+    "number": 32,
+    "folder": "31_Full_Stack_Angular_Python_AWS",
+    "title": "Senior Full Stack Engineer - Angular, Python, AWS",
+    "summary_chars": 436,
+    "docx": "31_Full_Stack_Angular_Python_AWS/Idris Sadiq.docx",
+    "pdf": "31_Full_Stack_Angular_Python_AWS/Idris Sadiq.pdf"
+  },
+  {
+    "number": 33,
+    "folder": "32_Full_Stack_Vue_Nuxt_Node_GCP",
+    "title": "Senior Full Stack Engineer - Vue.js and Nuxt, Node.js and TypeScript, GCP",
+    "summary_chars": 465,
+    "docx": "32_Full_Stack_Vue_Nuxt_Node_GCP/Idris Sadiq.docx",
+    "pdf": "32_Full_Stack_Vue_Nuxt_Node_GCP/Idris Sadiq.pdf"
+  },
+  {
+    "number": 34,
+    "folder": "33_Full_Stack_Vue_Nuxt_Java_Azure",
+    "title": "Senior Full Stack Engineer - Vue.js and Nuxt, Java and Spring Boot, Azure",
+    "summary_chars": 465,
+    "docx": "33_Full_Stack_Vue_Nuxt_Java_Azure/Idris Sadiq.docx",
+    "pdf": "33_Full_Stack_Vue_Nuxt_Java_Azure/Idris Sadiq.pdf"
+  },
+  {
+    "number": 35,
+    "folder": "34_Full_Stack_Vue_Nuxt_CSharp_NET_AWS",
+    "title": "Senior Full Stack Engineer - Vue.js and Nuxt, C# and .NET, AWS",
+    "summary_chars": 450,
+    "docx": "34_Full_Stack_Vue_Nuxt_CSharp_NET_AWS/Idris Sadiq.docx",
+    "pdf": "34_Full_Stack_Vue_Nuxt_CSharp_NET_AWS/Idris Sadiq.pdf"
+  },
+  {
+    "number": 36,
+    "folder": "35_Full_Stack_Vue_Nuxt_PHP_GCP",
+    "title": "Senior Full Stack Engineer - Vue.js and Nuxt, PHP and Laravel, GCP",
+    "summary_chars": 457,
+    "docx": "35_Full_Stack_Vue_Nuxt_PHP_GCP/Idris Sadiq.docx",
+    "pdf": "35_Full_Stack_Vue_Nuxt_PHP_GCP/Idris Sadiq.pdf"
+  },
+  {
+    "number": 37,
+    "folder": "36_Full_Stack_Vue_Nuxt_Go_Azure",
+    "title": "Senior Full Stack Engineer - Vue.js and Nuxt, Go, Azure",
+    "summary_chars": 443,
+    "docx": "36_Full_Stack_Vue_Nuxt_Go_Azure/Idris Sadiq.docx",
+    "pdf": "36_Full_Stack_Vue_Nuxt_Go_Azure/Idris Sadiq.pdf"
+  },
+  {
+    "number": 38,
+    "folder": "37_Full_Stack_Vue_Nuxt_Rust_AWS",
+    "title": "Senior Full Stack Engineer - Vue.js and Nuxt, Rust, AWS",
+    "summary_chars": 443,
+    "docx": "37_Full_Stack_Vue_Nuxt_Rust_AWS/Idris Sadiq.docx",
+    "pdf": "37_Full_Stack_Vue_Nuxt_Rust_AWS/Idris Sadiq.pdf"
+  },
+  {
+    "number": 39,
+    "folder": "38_Full_Stack_Vue_Nuxt_Ruby_GCP",
+    "title": "Senior Full Stack Engineer - Vue.js and Nuxt, Ruby on Rails, GCP",
+    "summary_chars": 459,
+    "docx": "38_Full_Stack_Vue_Nuxt_Ruby_GCP/Idris Sadiq.docx",
+    "pdf": "38_Full_Stack_Vue_Nuxt_Ruby_GCP/Idris Sadiq.pdf"
+  },
+  {
+    "number": 40,
+    "folder": "39_Full_Stack_Vue_Nuxt_Python_Azure",
+    "title": "Senior Full Stack Engineer - Vue.js and Nuxt, Python, Azure",
+    "summary_chars": 447,
+    "docx": "39_Full_Stack_Vue_Nuxt_Python_Azure/Idris Sadiq.docx",
+    "pdf": "39_Full_Stack_Vue_Nuxt_Python_Azure/Idris Sadiq.pdf"
+  },
+  {
+    "number": 41,
+    "folder": "40_Full_Stack_Svelte_SvelteKit_Node_AWS",
+    "title": "Senior Full Stack Engineer - Svelte and SvelteKit, Node.js and TypeScript, AWS",
+    "summary_chars": 471,
+    "docx": "40_Full_Stack_Svelte_SvelteKit_Node_AWS/Idris Sadiq.docx",
+    "pdf": "40_Full_Stack_Svelte_SvelteKit_Node_AWS/Idris Sadiq.pdf"
+  },
+  {
+    "number": 42,
+    "folder": "41_Full_Stack_Svelte_SvelteKit_Java_GCP",
+    "title": "Senior Full Stack Engineer - Svelte and SvelteKit, Java and Spring Boot, GCP",
+    "summary_chars": 469,
+    "docx": "41_Full_Stack_Svelte_SvelteKit_Java_GCP/Idris Sadiq.docx",
+    "pdf": "41_Full_Stack_Svelte_SvelteKit_Java_GCP/Idris Sadiq.pdf"
+  },
+  {
+    "number": 43,
+    "folder": "42_Full_Stack_Svelte_SvelteKit_CSharp_NET_Azure",
+    "title": "Senior Full Stack Engineer - Svelte and SvelteKit, C# and .NET, Azure",
+    "summary_chars": 458,
+    "docx": "42_Full_Stack_Svelte_SvelteKit_CSharp_NET_Azure/Idris Sadiq.docx",
+    "pdf": "42_Full_Stack_Svelte_SvelteKit_CSharp_NET_Azure/Idris Sadiq.pdf"
+  },
+  {
+    "number": 44,
+    "folder": "43_Full_Stack_Svelte_SvelteKit_PHP_AWS",
+    "title": "Senior Full Stack Engineer - Svelte and SvelteKit, PHP and Laravel, AWS",
+    "summary_chars": 463,
+    "docx": "43_Full_Stack_Svelte_SvelteKit_PHP_AWS/Idris Sadiq.docx",
+    "pdf": "43_Full_Stack_Svelte_SvelteKit_PHP_AWS/Idris Sadiq.pdf"
+  },
+  {
+    "number": 45,
+    "folder": "44_Full_Stack_Svelte_SvelteKit_Go_GCP",
+    "title": "Senior Full Stack Engineer - Svelte and SvelteKit, Go, GCP",
+    "summary_chars": 447,
+    "docx": "44_Full_Stack_Svelte_SvelteKit_Go_GCP/Idris Sadiq.docx",
+    "pdf": "44_Full_Stack_Svelte_SvelteKit_Go_GCP/Idris Sadiq.pdf"
+  },
+  {
+    "number": 46,
+    "folder": "45_Full_Stack_Svelte_SvelteKit_Rust_Azure",
+    "title": "Senior Full Stack Engineer - Svelte and SvelteKit, Rust, Azure",
+    "summary_chars": 451,
+    "docx": "45_Full_Stack_Svelte_SvelteKit_Rust_Azure/Idris Sadiq.docx",
+    "pdf": "45_Full_Stack_Svelte_SvelteKit_Rust_Azure/Idris Sadiq.pdf"
+  },
+  {
+    "number": 47,
+    "folder": "46_Full_Stack_Svelte_SvelteKit_Ruby_AWS",
+    "title": "Senior Full Stack Engineer - Svelte and SvelteKit, Ruby on Rails, AWS",
+    "summary_chars": 465,
+    "docx": "46_Full_Stack_Svelte_SvelteKit_Ruby_AWS/Idris Sadiq.docx",
+    "pdf": "46_Full_Stack_Svelte_SvelteKit_Ruby_AWS/Idris Sadiq.pdf"
+  },
+  {
+    "number": 48,
+    "folder": "47_Full_Stack_Svelte_SvelteKit_Python_GCP",
+    "title": "Senior Full Stack Engineer - Svelte and SvelteKit, Python, GCP",
+    "summary_chars": 451,
+    "docx": "47_Full_Stack_Svelte_SvelteKit_Python_GCP/Idris Sadiq.docx",
+    "pdf": "47_Full_Stack_Svelte_SvelteKit_Python_GCP/Idris Sadiq.pdf"
+  },
+  {
+    "number": 49,
+    "folder": "48_Mobile_Full_Stack_React_Native_Node_AWS",
+    "title": "Senior Mobile Full Stack Engineer - React Native, Node.js and TypeScript, AWS",
+    "summary_chars": 472,
+    "docx": "48_Mobile_Full_Stack_React_Native_Node_AWS/Idris Sadiq.docx",
+    "pdf": "48_Mobile_Full_Stack_React_Native_Node_AWS/Idris Sadiq.pdf"
+  },
+  {
+    "number": 50,
+    "folder": "49_Mobile_Full_Stack_React_Native_Java_GCP",
+    "title": "Senior Mobile Full Stack Engineer - React Native, Java and Spring Boot, GCP",
+    "summary_chars": 470,
+    "docx": "49_Mobile_Full_Stack_React_Native_Java_GCP/Idris Sadiq.docx",
+    "pdf": "49_Mobile_Full_Stack_React_Native_Java_GCP/Idris Sadiq.pdf"
+  },
+  {
+    "number": 51,
+    "folder": "50_Mobile_Full_Stack_Flutter_Dart_Node_GCP",
+    "title": "Senior Mobile Full Stack Engineer - Flutter and Dart, Node.js and TypeScript, GCP",
+    "summary_chars": 478,
+    "docx": "50_Mobile_Full_Stack_Flutter_Dart_Node_GCP/Idris Sadiq.docx",
+    "pdf": "50_Mobile_Full_Stack_Flutter_Dart_Node_GCP/Idris Sadiq.pdf"
+  },
+  {
+    "number": 52,
+    "folder": "51_Mobile_Full_Stack_Flutter_Dart_Python_AWS",
+    "title": "Senior Mobile Full Stack Engineer - Flutter and Dart, Python, AWS",
+    "summary_chars": 458,
+    "docx": "51_Mobile_Full_Stack_Flutter_Dart_Python_AWS/Idris Sadiq.docx",
+    "pdf": "51_Mobile_Full_Stack_Flutter_Dart_Python_AWS/Idris Sadiq.pdf"
+  },
+  {
+    "number": 53,
+    "folder": "52_Mobile_Full_Stack_ObjectiveC_Swift_Node_Azure",
+    "title": "Senior Mobile Full Stack Engineer - iOS, Objective-C and Swift, Node.js and TypeScript, Azure",
+    "summary_chars": 479,
+    "docx": "52_Mobile_Full_Stack_ObjectiveC_Swift_Node_Azure/Idris Sadiq.docx",
+    "pdf": "52_Mobile_Full_Stack_ObjectiveC_Swift_Node_Azure/Idris Sadiq.pdf"
+  },
+  {
+    "number": 54,
+    "folder": "53_Mobile_Full_Stack_ObjectiveC_Swift_Java_AWS",
+    "title": "Senior Mobile Full Stack Engineer - iOS, Objective-C and Swift, Java and Spring Boot, AWS",
+    "summary_chars": 475,
+    "docx": "53_Mobile_Full_Stack_ObjectiveC_Swift_Java_AWS/Idris Sadiq.docx",
+    "pdf": "53_Mobile_Full_Stack_ObjectiveC_Swift_Java_AWS/Idris Sadiq.pdf"
+  },
+  {
+    "number": 55,
+    "folder": "54_AWS_DevOps",
+    "title": "Senior AWS DevOps Engineer",
+    "summary_chars": 447,
+    "docx": "54_AWS_DevOps/Idris Sadiq.docx",
+    "pdf": "54_AWS_DevOps/Idris Sadiq.pdf"
+  },
+  {
+    "number": 56,
+    "folder": "55_GCP_DevOps",
+    "title": "Senior GCP DevOps Engineer",
+    "summary_chars": 447,
+    "docx": "55_GCP_DevOps/Idris Sadiq.docx",
+    "pdf": "55_GCP_DevOps/Idris Sadiq.pdf"
+  },
+  {
+    "number": 57,
+    "folder": "56_Azure_DevOps",
+    "title": "Senior Azure DevOps Engineer",
+    "summary_chars": 451,
+    "docx": "56_Azure_DevOps/Idris Sadiq.docx",
+    "pdf": "56_Azure_DevOps/Idris Sadiq.pdf"
+  },
+  {
+    "number": 58,
+    "folder": "57_Platform_Engineer",
+    "title": "Senior Platform Engineer - Kubernetes and Multi-Cloud",
+    "summary_chars": 466,
+    "docx": "57_Platform_Engineer/Idris Sadiq.docx",
+    "pdf": "57_Platform_Engineer/Idris Sadiq.pdf"
+  },
+  {
+    "number": 59,
+    "folder": "58_SRE_Engineer",
+    "title": "Senior Site Reliability Engineer - Cloud and Kubernetes",
+    "summary_chars": 474,
+    "docx": "58_SRE_Engineer/Idris Sadiq.docx",
+    "pdf": "58_SRE_Engineer/Idris Sadiq.pdf"
+  },
+  {
+    "number": 60,
+    "folder": "59_AI_ML",
+    "title": "Senior AI/ML Engineer - Python, MLOps and Cloud",
+    "summary_chars": 462,
+    "docx": "59_AI_ML/Idris Sadiq.docx",
+    "pdf": "59_AI_ML/Idris Sadiq.pdf"
+  },
+  {
+    "number": 61,
+    "folder": "60_AI_Data",
+    "title": "Senior AI Data Engineer - Feature Platforms and ML Pipelines",
+    "summary_chars": 477,
+    "docx": "60_AI_Data/Idris Sadiq.docx",
+    "pdf": "60_AI_Data/Idris Sadiq.pdf"
+  },
+  {
+    "number": 62,
+    "folder": "61_AI_Computer_Vision",
+    "title": "Senior Computer Vision Engineer - Deep Learning and MLOps",
+    "summary_chars": 480,
+    "docx": "61_AI_Computer_Vision/Idris Sadiq.docx",
+    "pdf": "61_AI_Computer_Vision/Idris Sadiq.pdf"
+  },
+  {
+    "number": 63,
+    "folder": "62_AI_LLM",
+    "title": "Senior LLM Engineer - RAG, Agents and Evaluation",
+    "summary_chars": 481,
+    "docx": "62_AI_LLM/Idris Sadiq.docx",
+    "pdf": "62_AI_LLM/Idris Sadiq.pdf"
+  },
+  {
+    "number": 64,
+    "folder": "63_AI_Integration",
+    "title": "Senior AI Integration Engineer - APIs, Automation and Enterprise Systems",
+    "summary_chars": 496,
+    "docx": "63_AI_Integration/Idris Sadiq.docx",
+    "pdf": "63_AI_Integration/Idris Sadiq.pdf"
+  },
+  {
+    "number": 65,
+    "folder": "64_Generative_AI",
+    "title": "Senior Generative AI Engineer - Multimodal, RAG and Agents",
+    "summary_chars": 482,
+    "docx": "64_Generative_AI/Idris Sadiq.docx",
+    "pdf": "64_Generative_AI/Idris Sadiq.pdf"
+  },
+  {
+    "number": 66,
+    "folder": "65_Data_Engineer",
+    "title": "Senior Data Engineer - Python, Spark, Airflow and Cloud",
+    "summary_chars": 480,
+    "docx": "65_Data_Engineer/Idris Sadiq.docx",
+    "pdf": "65_Data_Engineer/Idris Sadiq.pdf"
+  }
+]
